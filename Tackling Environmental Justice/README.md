@@ -1,1 +1,7 @@
-
+# Tackling Environmental Justice with One Backpack in New York
+### Summary: 
+  This report examines environmental justice disparities in New York City boroughs by focusing on PM2.5 concentration levels. Dr. Audrey Gaudel and her colleagues in New York City measured street-level air quality by transporting air-quality equipment in backpacks. One of the main goals of this report was to establish if the CDC’s environmental justice ranking accurately captured PM2.5 concentration levels and could be a reliable source to inform communities. A second goal was to determine if non-white and white census tracts could be grouped based on CDC’s environmental justice index (EJI) and social vulnerability ranking (SVR). The hypothesis was that non-white tracts would have substantially higher EJIs and SVRs than white tracts.
+      
+  Utilizing k-means clustering and exploratory analysis, this study reveals notable disparities between white and non-white census tracts, consistently exhibiting higher EJI and SVRs. However, comparisons between EJI’s predicted PM2.5 levels and actual measurements from the backpack campaign highlight discrepancies, suggesting potential inaccuracies in EJI’s rankings.
+  
+  The findings underscore the importance of refining the clustering algorithms to access the environmental justice rankings accurately. Further research is needed to enhance the comparability of EJI's PM2.5 concentration levels with on-the-ground measurements. Addressing these disparities is crucial for advocating for equitable environmental policies and interventions to safeguard public health and promote environmental justice in urban areas like New York.
